@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Modul 117"
+                 start-page="Netzwerk-in-Betrieb-nehmen.md">
+
+    <toc-element toc-title="Realisierung mit Windows 10">
+
+        <toc-element topic="Netzwerk-in-Betrieb-nehmen.md"/>
+        <toc-element topic="Standardordnerfreigabe.md"/>
+    </toc-element>
+    <toc-element topic="Informationen.md"/>
+</instance-profile>
