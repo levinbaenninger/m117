@@ -17,5 +17,6 @@
         </toc-element>
     </toc-element>
     <toc-element topic="Standard-Zugriffsrechte-in-der-Praxis.md"/>
+    <toc-element topic="Vererbung.md"/>
     <toc-element topic="Informationen.md"/>
 </instance-profile>
