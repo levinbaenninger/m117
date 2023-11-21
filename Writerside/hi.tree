@@ -9,7 +9,13 @@
     <toc-element toc-title="Realisierung mit Windows 10">
 
         <toc-element topic="Netzwerk-in-Betrieb-nehmen.md"/>
-        <toc-element topic="Standardordnerfreigabe.md"/>
+        <toc-element topic="Zugriffsrechte.md">
+            <toc-element topic="Standardordnerfreigabe.md"/>
+            <toc-element topic="Standard-Zugriffsrechte.md"/>
+            <toc-element topic="Zugriffsrechte-zulassen-verweigern.md"/>
+            <toc-element topic="Arbeitsauftrag-Zugriffsrechte.md"/>
+        </toc-element>
     </toc-element>
+    <toc-element topic="Standard-Zugriffsrechte-in-der-Praxis.md"/>
     <toc-element topic="Informationen.md"/>
 </instance-profile>
