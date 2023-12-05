@@ -12,8 +12,10 @@ Ressourcen vor und ermöglicht anderen Benutzern die Freigabe von Ressourcen, di
 gehören oder für die sie über die entsprechenden Zugriffsberechtigungen verfügen.
 
 Freigaben lassen sich mit mehreren Programmen erstellen: 
-* **Windows-Explorer**: Alle Ausführungen beziehen sich auf dieses Werkzeug. 
-* **Computerverwaltung**: Verwenden Sie die Computerverwaltung, wenn Sie auf den Computern, mit denen Sie eine Verbindung herstellen können, Ordner freigeben möchten. Wenn Sie in der Strukturdarstellung mit der rechten Maustaste auf Computerverwaltung klicken und Sie dann <ui-path>Verbindung mit anderem Computer<ui-path> herstellen auswählen, können Sie die Freigaben von anderen Rechnern einsehen. 
+* **Windows-Explorer**: Alle Ausführungen beziehen sich auf dieses Werkzeug.
+* **Computerverwaltung**: Verwenden Sie die Computerverwaltung, wenn Sie auf den Computern, mit denen Sie eine Verbindung herstellen können, Ordner
+  freigeben möchten. Wenn Sie in der Strukturdarstellung mit der rechten Maustaste auf Computerverwaltung klicken und Sie dann <ui-path>Verbindung mit
+  anderem Computer</ui-path> herstellen auswählen, können Sie die Freigaben von anderen Rechnern einsehen.
 * **`Net share`**: Verwenden Sie diesen DOS-Befehl, wenn ein Skript Ordner freigeben soll. `net share /?` zeigt die Syntax des Befehls an. 
 
 Wenn Sie die erste Standardordnerfreigabe auf einem Computer anlegen, erstellt Windows 
